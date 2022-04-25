@@ -1,1 +1,1 @@
-{"version":3,"sourceRoot":"","sources":["style/accueil.scss"],"names":[],"mappings":"AAIA;EACI;EACA;;AAEA;EACI;;;AAIR;EACI;EACA","file":"accueil.css"}
+{"version":3,"sourceRoot":"","sources":["style/scss/accueil.scss"],"names":[],"mappings":"AAIA;EACI;EACA;;AAEA;EACI;;;AAIR;EACI;EACA;;AAEA;EACI","file":"accueil.css"}
