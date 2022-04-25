@@ -7,11 +7,16 @@ header{
     justify-content: center;
 
     img{
-        width: 30%;
+        width: 100px;
     }
 }
 
 .lieu{
     display: flex;
     justify-content: center;
+
+    address{
+        font: bold;
+        
+    }
 }
