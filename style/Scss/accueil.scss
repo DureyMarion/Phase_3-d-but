@@ -2,21 +2,25 @@ $color-primary: #9356DC;
 $color-secondary: #FF79DA;
 $color-tertiary: #99E2D0;
 
-header{
+header {
     display: flex;
     justify-content: center;
 
-    img{
+    img {
         width: 100px;
     }
 }
 
-.lieu{
+.lieu {
     display: flex;
     justify-content: center;
 
-    address{
+    address.city {
         font: bold;
-        
     }
+}
+
+.btn-recherche {
+    background: rgb(147, 86, 220);
+    background: linear-gradient(360deg, rgba(147, 86, 220, 1) 0%, rgba(255, 121, 218, 1) 100%);
 }
