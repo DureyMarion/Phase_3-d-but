@@ -15,12 +15,17 @@ header {
     display: flex;
     justify-content: center;
 
-    address.city {
-        font: bold;
+    address{
+        font-weight: bold;
     }
 }
 
-.btn-recherche {
+button{
     background: rgb(147, 86, 220);
     background: linear-gradient(360deg, rgba(147, 86, 220, 1) 0%, rgba(255, 121, 218, 1) 100%);
+    border-radius: 30px;
+}
+
+a{
+    text-decoration: none;
 }
